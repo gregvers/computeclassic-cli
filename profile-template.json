@@ -1,0 +1,13 @@
+{
+	"global": {
+		"format": "json",
+		"debug-requests": false,
+		"insecure-tls": false,
+		"insecure-http": false
+	},
+	"compute": {
+		"user": "/Compute-IDENTITYDOMAIN/USER",
+		"password-file": "/root/.opc/passwordfile",
+		"endpoint": "ENDPOINT"
+	}
+}
