@@ -8,6 +8,6 @@
 	"compute": {
 		"user": "/Compute-IDENTITYDOMAIN/USER",
 		"password-file": "/root/.opc/passwordfile",
-		"endpoint": "ENDPOINT"
+		"endpoint": "COMPUTE_ENDPOINT"
 	}
 }
