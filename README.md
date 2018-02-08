@@ -11,6 +11,9 @@ docker run -it --env-file config.env gregvers/computeclassic-cli
 
 ## config.env example
 > USER=gre@domain.com
+
 > PASSWORD=XXXXXXX
+
 > IDENTITYDOMAIN=myIdentityDomain
+
 > COMPUTE_ENDPOINT=https://compute.uscom-central-1.oraclecloud.com/
